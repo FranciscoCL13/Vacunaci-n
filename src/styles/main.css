@@ -1,0 +1,14 @@
+@import url(Containers.css);
+
+:root{
+    --ColorWhite: #fff;
+    --ColorBlack: #0000;
+    --ColorBlue: #1f3e72
+}
+
+body{
+    background-color: var(--ColorWhite);
+    font-family: 'Fredoka', sans-serif;
+    color: var(--ColorBlue);
+}
+
